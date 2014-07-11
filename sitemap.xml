@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://flow3r.github.io/</loc>
+    <lastmod>2014-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://flow3r.github.io/post/002</loc>
+    <lastmod>2014-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flow3r.github.io/post/004</loc>
+    <lastmod>2014-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flow3r.github.io/post/001</loc>
+    <lastmod>2014-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flow3r.github.io/post/003</loc>
+    <lastmod>2013-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flow3r.github.io/mailinglist</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flow3r.github.io/talks</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flow3r.github.io/about/platform</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flow3r.github.io/about/greeting</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flow3r.github.io/about/members</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flow3r.github.io/about/rules</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flow3r.github.io/about</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
